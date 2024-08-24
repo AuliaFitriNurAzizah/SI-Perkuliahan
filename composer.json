@@ -1,0 +1,17 @@
+{
+    "name": "dell/pbl",
+    "autoload": {
+        "psr-4": {
+            "Dell\\Pbl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AuliaFitriNurAzizah",
+            "email": "afitrinurazizah@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.2"
+    }
+}
